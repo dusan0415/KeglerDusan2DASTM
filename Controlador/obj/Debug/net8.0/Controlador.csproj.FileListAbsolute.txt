@@ -1,0 +1,40 @@
+C:\Users\Arik\Desktop\Desarrollo\Controlador\bin\Debug\net8.0\Controlador.deps.json
+C:\Users\Arik\Desktop\Desarrollo\Controlador\bin\Debug\net8.0\Controlador.runtimeconfig.json
+C:\Users\Arik\Desktop\Desarrollo\Controlador\bin\Debug\net8.0\Controlador.dll
+C:\Users\Arik\Desktop\Desarrollo\Controlador\bin\Debug\net8.0\Controlador.pdb
+C:\Users\Arik\Desktop\Desarrollo\Controlador\bin\Debug\net8.0\Entidades.dll
+C:\Users\Arik\Desktop\Desarrollo\Controlador\bin\Debug\net8.0\Modelo.dll
+C:\Users\Arik\Desktop\Desarrollo\Controlador\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Arik\Desktop\Desarrollo\Controlador\bin\Debug\net8.0\Modelo.pdb
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\Controlador.AssemblyInfo.cs
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\Controla.6B62700F.Up2Date
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\Controlador.dll
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\refint\Controlador.dll
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\Controlador.pdb
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\Controlador.genruntimeconfig.cache
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\ref\Controlador.dll
+C:\Users\Arik\Desktop\Desarrollo\Controlador\obj\Debug\net8.0\Controlador.sourcelink.json
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\bin\Debug\net8.0\Controlador.deps.json
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\bin\Debug\net8.0\Controlador.runtimeconfig.json
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\bin\Debug\net8.0\Controlador.dll
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\bin\Debug\net8.0\Controlador.pdb
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\bin\Debug\net8.0\Entidades.dll
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\bin\Debug\net8.0\Modelo.dll
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\bin\Debug\net8.0\Modelo.pdb
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\Controlador.AssemblyInfo.cs
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\Controlador.sourcelink.json
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\Controla.6B62700F.Up2Date
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\Controlador.dll
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\refint\Controlador.dll
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\Controlador.pdb
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\Controlador.genruntimeconfig.cache
+C:\Users\Arik\Desktop\Desarrollo\New folder\Controlador\obj\Debug\net8.0\ref\Controlador.dll
