@@ -10,7 +10,7 @@ using Modelo;
 
 namespace Modelo.Migrations
 {
-    [DbContext(typeof(Context))]
+    [DbContext(typeof(ConexionDatos))]
     partial class ContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

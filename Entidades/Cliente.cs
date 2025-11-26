@@ -1,13 +1,16 @@
-﻿namespace Entidades
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Entidades
 {
     public class Cliente
     {
-        public int ClienteId { get; set; }
-        public string Nombre { get; set; }
-        public string Apellido { get; set; }
-        public string Dni { get; set; }
-        public string Telefono { get; set; }
+        [Key] 
+        public int UsuarioCodigo { get; set; }
+        public string PrimerNombre { get; set; }
+        public string SegundoNombre { get; set; }
+        public string Documento { get; set; }
+        public string NumeroContacto { get; set; }
 
-        public virtual List<CuentaCorriente> Cuentas { get; set; } = new();
+        public virtual List<CuentaCorriente> Bolsas { get; set; } = new();
     }
 }

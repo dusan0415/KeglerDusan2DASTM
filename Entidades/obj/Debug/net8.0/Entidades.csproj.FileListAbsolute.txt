@@ -26,3 +26,31 @@ C:\Users\Arik\Desktop\Desarrollo\New folder\Entidades\obj\Debug\net8.0\refint\En
 C:\Users\Arik\Desktop\Desarrollo\New folder\Entidades\obj\Debug\net8.0\Entidades.pdb
 C:\Users\Arik\Desktop\Desarrollo\New folder\Entidades\obj\Debug\net8.0\Entidades.genruntimeconfig.cache
 C:\Users\Arik\Desktop\Desarrollo\New folder\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\bin\Debug\net8.0\Entidades.runtimeconfig.json
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\obj\Debug\net8.0\Entidades.sourcelink.json
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\obj\Debug\net8.0\Entidades.genruntimeconfig.cache
+C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\bin\Debug\net8.0\Entidades.runtimeconfig.json
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\obj\Debug\net8.0\Entidades.sourcelink.json
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\obj\Debug\net8.0\Entidades.genruntimeconfig.cache
+C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Entidades\obj\Debug\net8.0\ref\Entidades.dll

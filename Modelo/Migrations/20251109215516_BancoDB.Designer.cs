@@ -11,7 +11,7 @@ using Modelo;
 
 namespace Modelo.Migrations
 {
-    [DbContext(typeof(Context))]
+    [DbContext(typeof(ConexionDatos))] // Cambiado de Context a ConexionDatos
     [Migration("20251109215516_BancoDB")]
     partial class BancoDB
     {
@@ -26,118 +26,118 @@ namespace Modelo.Migrations
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
             modelBuilder.Entity("Entidades.Cliente", b =>
-                {
-                    b.Property<int>("ClienteId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+            {
+                b.Property<int>("UsuarioCodigo")
+                    .ValueGeneratedOnAdd()
+                    .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ClienteId"));
+                SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UsuarioCodigo"));
 
-                    b.Property<string>("Apellido")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                b.Property<string>("PrimerNombre")
+                    .IsRequired()
+                    .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Dni")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                b.Property<string>("SegundoNombre")
+                    .IsRequired()
+                    .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Nombre")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                b.Property<string>("Documento")
+                    .IsRequired()
+                    .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Telefono")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                b.Property<string>("NumeroContacto")
+                    .IsRequired()
+                    .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("ClienteId");
+                b.HasKey("UsuarioCodigo");
 
-                    b.ToTable("Clientes");
-                });
-
-            modelBuilder.Entity("Entidades.CuentaCorriente", b =>
-                {
-                    b.Property<int>("CuentaCorrienteId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CuentaCorrienteId"));
-
-                    b.Property<int>("ClienteId")
-                        .HasColumnType("int");
-
-                    b.Property<decimal>("Saldo")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.HasKey("CuentaCorrienteId");
-
-                    b.HasIndex("ClienteId");
-
-                    b.ToTable("Cuentas");
-                });
-
-            modelBuilder.Entity("Entidades.Movimiento", b =>
-                {
-                    b.Property<int>("MovimientoId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MovimientoId"));
-
-                    b.Property<int>("CuentaCorrienteId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Descripcion")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime>("Fecha")
-                        .HasColumnType("datetime2");
-
-                    b.Property<decimal>("Monto")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.Property<string>("Tipo")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("MovimientoId");
-
-                    b.HasIndex("CuentaCorrienteId");
-
-                    b.ToTable("Movimientos");
-                });
+                b.ToTable("Clientes");
+            });
 
             modelBuilder.Entity("Entidades.CuentaCorriente", b =>
-                {
-                    b.HasOne("Entidades.Cliente", "Cliente")
-                        .WithMany("Cuentas")
-                        .HasForeignKey("ClienteId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+            {
+                b.Property<int>("BilleteraCodigo")
+                    .ValueGeneratedOnAdd()
+                    .HasColumnType("int");
 
-                    b.Navigation("Cliente");
-                });
+                SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("BilleteraCodigo"));
+
+                b.Property<int>("UsuarioCodigo")
+                    .HasColumnType("int");
+
+                b.Property<decimal>("MontoActual")
+                    .HasColumnType("decimal(18,2)");
+
+                b.HasKey("BilleteraCodigo");
+
+                b.HasIndex("UsuarioCodigo");
+
+                b.ToTable("Cuentas");
+            });
 
             modelBuilder.Entity("Entidades.Movimiento", b =>
-                {
-                    b.HasOne("Entidades.CuentaCorriente", "CuentaCorriente")
-                        .WithMany("Movimientos")
-                        .HasForeignKey("CuentaCorrienteId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+            {
+                b.Property<int>("TransaccionCodigo")
+                    .ValueGeneratedOnAdd()
+                    .HasColumnType("int");
 
-                    b.Navigation("CuentaCorriente");
-                });
+                SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TransaccionCodigo"));
+
+                b.Property<int>("BilleteraCodigo")
+                    .HasColumnType("int");
+
+                b.Property<string>("Detalle")
+                    .IsRequired()
+                    .HasColumnType("nvarchar(max)");
+
+                b.Property<DateTime>("FechaOperacion")
+                    .HasColumnType("datetime2");
+
+                b.Property<decimal>("Valor")
+                    .HasColumnType("decimal(18,2)");
+
+                b.Property<string>("Categoria")
+                    .IsRequired()
+                    .HasColumnType("nvarchar(max)");
+
+                b.HasKey("TransaccionCodigo");
+
+                b.HasIndex("BilleteraCodigo");
+
+                b.ToTable("Movimientos");
+            });
+
+            modelBuilder.Entity("Entidades.CuentaCorriente", b =>
+            {
+                b.HasOne("Entidades.Cliente", "Cliente")
+                    .WithMany("Bolsas") // coincide con la lista en Cliente
+                    .HasForeignKey("UsuarioCodigo")
+                    .OnDelete(DeleteBehavior.Cascade)
+                    .IsRequired();
+
+                b.Navigation("Cliente");
+            });
+
+            modelBuilder.Entity("Entidades.Movimiento", b =>
+            {
+                b.HasOne("Entidades.CuentaCorriente", "CuentaCorriente")
+                    .WithMany("Registros") // coincide con la lista en CuentaCorriente
+                    .HasForeignKey("BilleteraCodigo")
+                    .OnDelete(DeleteBehavior.Cascade)
+                    .IsRequired();
+
+                b.Navigation("CuentaCorriente");
+            });
 
             modelBuilder.Entity("Entidades.Cliente", b =>
-                {
-                    b.Navigation("Cuentas");
-                });
+            {
+                b.Navigation("Bolsas");
+            });
 
             modelBuilder.Entity("Entidades.CuentaCorriente", b =>
-                {
-                    b.Navigation("Movimientos");
-                });
+            {
+                b.Navigation("Registros");
+            });
 #pragma warning restore 612, 618
         }
     }

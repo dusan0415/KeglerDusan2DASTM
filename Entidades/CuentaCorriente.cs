@@ -1,19 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Transactions;
 
 namespace Entidades
 {
     public class CuentaCorriente
     {
-        public int CuentaCorrienteId { get; set; }
-        public decimal Saldo { get; set; }
+        [Key]
+        public int BilleteraCodigo { get; set; }
+        public decimal MontoActual { get; set; }
 
-        public int ClienteId { get; set; }
-
-        public virtual List<Movimiento> Movimientos { get; set; } = new();
-
+        public int UsuarioCodigo { get; set; }
+        public virtual List<Movimiento> Registros { get; set; } = new();
     }
+
+
 }
+

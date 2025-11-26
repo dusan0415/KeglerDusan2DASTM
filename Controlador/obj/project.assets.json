@@ -4726,23 +4726,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Arik\\.nuget\\packages\\": {},
+    "C:\\Users\\Hp4\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arik\\Desktop\\Desarrollo\\New folder\\Controlador\\Controlador.csproj",
+      "projectUniqueName": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Controlador\\Controlador.csproj",
       "projectName": "Controlador",
-      "projectPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\New folder\\Controlador\\Controlador.csproj",
-      "packagesPath": "C:\\Users\\Arik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\New folder\\Controlador\\obj\\",
+      "projectPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Controlador\\Controlador.csproj",
+      "packagesPath": "C:\\Users\\Hp4\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Controlador\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Arik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hp4\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4757,11 +4757,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Arik\\Desktop\\Desarrollo\\New folder\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\New folder\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Entidades\\Entidades.csproj"
             },
-            "C:\\Users\\Arik\\Desktop\\Desarrollo\\New folder\\Modelo\\Modelo.csproj": {
-              "projectPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\New folder\\Modelo\\Modelo.csproj"
+            "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Modelo\\Modelo.csproj": {
+              "projectPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Modelo\\Modelo.csproj"
             }
           }
         }
@@ -4805,7 +4805,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

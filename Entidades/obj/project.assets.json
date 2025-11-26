@@ -2822,23 +2822,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Arik\\.nuget\\packages\\": {},
+    "C:\\Users\\Hp4\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arik\\Desktop\\Desarrollo\\New folder\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\New folder\\Entidades\\Entidades.csproj",
-      "packagesPath": "C:\\Users\\Arik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\New folder\\Entidades\\obj\\",
+      "projectPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Entidades\\Entidades.csproj",
+      "packagesPath": "C:\\Users\\Hp4\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Arik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hp4\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2894,7 +2894,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
