@@ -1,0 +1,24 @@
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\Practica Programacion Club.exe
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\Practica Programacion Club.deps.json
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\Practica Programacion Club.runtimeconfig.json
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\Practica Programacion Club.dll
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\Practica Programacion Club.pdb
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica Programacion Club.csproj.AssemblyReference.cache
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica_Programacion_Club.Form1.resources
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica Programacion Club.csproj.GenerateResource.cache
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica Programacion Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica Programacion Club.AssemblyInfoInputs.cache
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica Programacion Club.AssemblyInfo.cs
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica Programacion Club.csproj.CoreCompileInputs.cache
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica.72A60A0E.Up2Date
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica Programacion Club.dll
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\refint\Practica Programacion Club.dll
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica Programacion Club.pdb
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\Practica Programacion Club.genruntimeconfig.cache
+C:\Users\Hp4\Desktop\Practica Programación\Practica Programacion Club\Practica Programacion Club\obj\Debug\net8.0-windows\ref\Practica Programacion Club.dll
