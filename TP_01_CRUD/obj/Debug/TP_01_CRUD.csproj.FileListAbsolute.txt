@@ -1,0 +1,12 @@
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\bin\Debug\TP_01_CRUD.exe.config
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\bin\Debug\TP_01_CRUD.exe
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\bin\Debug\TP_01_CRUD.pdb
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\obj\Debug\TP_01_CRUD.csproj.AssemblyReference.cache
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\obj\Debug\TP_01_CRUD.Form1.resources
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\obj\Debug\TP_01_CRUD.Properties.Resources.resources
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\obj\Debug\TP_01_CRUD.csproj.GenerateResource.cache
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\obj\Debug\TP_01_CRUD.csproj.CoreCompileInputs.cache
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\obj\Debug\TP_01_CRUD.exe
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\obj\Debug\TP_01_CRUD.pdb
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\obj\Debug\TP_01_CRUD.exe.config
+C:\ZONA DE CONTROL\Facultad\2do año\2do cuatri\DAS\KeglerDusanDASTM\TP_01_CRUD\obj\Debug\TP_01_CRUD.FrmGentes.resources
