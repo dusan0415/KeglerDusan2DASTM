@@ -4732,11 +4732,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Controlador\\Controlador.csproj",
       "projectName": "Controlador",
       "projectPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Controlador\\Controlador.csproj",
       "packagesPath": "C:\\Users\\Hp4\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Controlador\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Controlador\\Controlador.csproj",
+      "projectName": "Controlador",
+      "projectPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Controlador\\Controlador.csproj",
+      "packagesPath": "C:\\Users\\Arik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Controlador\\obj\\",
+>>>>>>> ce500b434d178a33eea0b1dafe533ae214ebeb02
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4757,11 +4765,19 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Entidades\\Entidades.csproj": {
               "projectPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Entidades\\Entidades.csproj"
             },
             "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Modelo\\Modelo.csproj": {
               "projectPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Modelo\\Modelo.csproj"
+=======
+            "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Entidades\\Entidades.csproj"
+            },
+            "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Modelo\\Modelo.csproj": {
+              "projectPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Modelo\\Modelo.csproj"
+>>>>>>> ce500b434d178a33eea0b1dafe533ae214ebeb02
             }
           }
         }

@@ -4745,11 +4745,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Modelo\\Modelo.csproj",
       "projectName": "Modelo",
       "projectPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Modelo\\Modelo.csproj",
       "packagesPath": "C:\\Users\\Hp4\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Modelo\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Modelo\\Modelo.csproj",
+      "projectName": "Modelo",
+      "projectPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Modelo\\Modelo.csproj",
+      "packagesPath": "C:\\Users\\Arik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Modelo\\obj\\",
+>>>>>>> ce500b434d178a33eea0b1dafe533ae214ebeb02
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4770,8 +4778,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Entidades\\Entidades.csproj": {
               "projectPath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Entidades\\Entidades.csproj"
+=======
+            "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Entidades\\Entidades.csproj"
+>>>>>>> ce500b434d178a33eea0b1dafe533ae214ebeb02
             }
           }
         }

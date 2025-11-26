@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "I60ODRqLmAg=",
   "success": true,
   "projectFilePath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Modelo\\Modelo.csproj",
+=======
+  "dgSpecHash": "MGi0XFvkmHs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Modelo\\Modelo.csproj",
+>>>>>>> ce500b434d178a33eea0b1dafe533ae214ebeb02
   "expectedPackageFiles": [
     "C:\\Users\\Hp4\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Hp4\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

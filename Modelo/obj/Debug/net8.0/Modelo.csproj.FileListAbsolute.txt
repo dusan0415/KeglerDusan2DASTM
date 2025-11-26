@@ -34,6 +34,7 @@ C:\Users\Arik\Desktop\Desarrollo\New folder\Modelo\obj\Debug\net8.0\refint\Model
 C:\Users\Arik\Desktop\Desarrollo\New folder\Modelo\obj\Debug\net8.0\Modelo.pdb
 C:\Users\Arik\Desktop\Desarrollo\New folder\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
 C:\Users\Arik\Desktop\Desarrollo\New folder\Modelo\obj\Debug\net8.0\ref\Modelo.dll
+<<<<<<< HEAD
 C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
 C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Hp4\Desktop\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
@@ -70,3 +71,23 @@ C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Modelo\obj\Debug\net8.0\refint\Modelo.dll
 C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Modelo\obj\Debug\net8.0\Modelo.pdb
 C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
 C:\Users\Hp4\Desktop\KeglerDusanDAS-TP\Modelo\obj\Debug\net8.0\ref\Modelo.dll
+=======
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\bin\Debug\net8.0\Modelo.runtimeconfig.json
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\bin\Debug\net8.0\Entidades.dll
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.sourcelink.json
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.csproj.Up2Date
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
+C:\Users\Arik\Desktop\Desarrollo\ArikYelinDasSegundoIntento\Modelo\obj\Debug\net8.0\ref\Modelo.dll
+>>>>>>> ce500b434d178a33eea0b1dafe533ae214ebeb02

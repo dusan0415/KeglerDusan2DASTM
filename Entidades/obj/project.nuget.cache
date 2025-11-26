@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "lJ5iOXRHpGk=",
   "success": true,
   "projectFilePath": "C:\\Users\\Hp4\\Desktop\\KeglerDusanDAS-TP\\Entidades\\Entidades.csproj",
+=======
+  "dgSpecHash": "4HqebXBO/gA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arik\\Desktop\\Desarrollo\\ArikYelinDasSegundoIntento\\Entidades\\Entidades.csproj",
+>>>>>>> ce500b434d178a33eea0b1dafe533ae214ebeb02
   "expectedPackageFiles": [
     "C:\\Users\\Hp4\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Hp4\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
